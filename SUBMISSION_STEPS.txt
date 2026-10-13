@@ -1,0 +1,16 @@
+SUBMISSION CHECKLIST - PER SCHOLAS GLAB 330.2.1
+
+1. Sign in to GitHub and create a new PUBLIC repository named glab-330-2-1-correlation-covariance.
+   https://github.com/new
+2. Do not create extra starter files if you will upload the prepared files.
+3. Choose Add file > Upload files, then upload the contents of this unzipped folder.
+   Keep README.md, correlation_covariance.py, requirements.txt, results.txt,
+   and the two images INSIDE the charts folder.
+4. Click Commit changes.
+5. Open the repository page and verify that README renders the two charts.
+6. In Canvas, open the GLAB 330.2.1 assignment, click Start Assignment,
+   paste the public GitHub repository URL, and submit.
+
+Note: GitHub does not automatically unpack uploaded ZIP files.
+The ZIP is only for downloading/transferring the project; upload its contents,
+not the ZIP itself, or ask ChatGPT to push the files once you share your new repo URL.

@@ -1,0 +1,21 @@
+GLAB 330.2.1 - Covariance and Correlation
+=========================================
+Day | Temp (X) | Sales (Y) | X-mean(X) | Y-mean(Y) | Product
+  1 |       20 |       100 |         0 |         0 |       0
+  2 |       25 |       120 |         5 |        20 |     100
+  3 |       15 |        80 |        -5 |       -20 |     100
+
+Mean temperature: 20.00 °C
+Mean sales: 100.00
+Sum of deviation products: 200
+Population covariance: 66.67
+Population variance, temperature: 16.67
+Population variance, sales: 266.67
+Population standard deviation, temperature: 4.0825
+Population standard deviation, sales: 16.3299
+Pearson correlation coefficient (r): 1.0000
+
+Interpretation: The covariance is positive, so higher temperatures are
+associated with higher ice cream sales. r = +1 means these three
+observations have a perfect positive linear association.
+Correlation describes an association; it does not prove causation.
